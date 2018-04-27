@@ -1,0 +1,14 @@
+[alias]
+  co=checkout
+  ss=status
+  s=status
+  pl=pull
+  ps=push
+  cam=commit -a -m
+  d=diff
+  ad=add .
+  br=branch
+  cm=commit -m
+[user]
+  name = liqingsanjin
+  eamil = liqingsanjin@163.com
